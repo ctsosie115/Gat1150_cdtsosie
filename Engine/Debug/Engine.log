@@ -1,0 +1,18 @@
+﻿  CTime.cpp
+C:\Users\ctsosie\Neumont\Year 1 Neumont\Q 3\Sprint 1\C++\C++ Visual Studio\GAT150 GameEngine\Engine\Source\CTime.h(15,35): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'Source/CTime.cpp')
+  
+  Engine.cpp
+C:\Users\ctsosie\Neumont\Year 1 Neumont\Q 3\Sprint 1\C++\C++ Visual Studio\GAT150 GameEngine\Engine\Source\CTime.h(15,35): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'Source/Engine.cpp')
+  
+C:\Users\ctsosie\Neumont\Year 1 Neumont\Q 3\Sprint 1\C++\C++ Visual Studio\GAT150 GameEngine\Engine\Source\Random.h(13,70): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'Source/Engine.cpp')
+  
+C:\Users\ctsosie\Neumont\Year 1 Neumont\Q 3\Sprint 1\C++\C++ Visual Studio\GAT150 GameEngine\Engine\Source\Color.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source/Engine.cpp')
+  
+  Generating Code...
+fmod_vc.lib(fmod.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in sdl2.lib(SDL2.dll); second definition ignored
+sdl2_ttf.lib(SDL2_ttf.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in sdl2.lib(SDL2.dll); second definition ignored
+  Engine.vcxproj -> C:\Users\ctsosie\Neumont\Year 1 Neumont\Q 3\Sprint 1\C++\C++ Visual Studio\GAT150 GameEngine\Bin\Engine\Debug\Engine.lib
